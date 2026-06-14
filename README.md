@@ -1,5 +1,3 @@
-![Project Preview](Query%20Results%20Screenshots/q01_total_records.png)
-
 # Global Superstore Sales Analysis using SQL
 
 ## Project Overview
@@ -8,6 +6,7 @@ This project analyzes the Global Superstore dataset using SQL to uncover valuabl
 
 The analysis was performed using SQLiteStudio and includes 20 business-focused SQL queries designed to answer real-world business questions.
 
+![Project Preview](Query%20Results%20Screenshots/q01_total_records.png)
 ---
 
 ## Objectives
