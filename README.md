@@ -1,3 +1,5 @@
+![Project Preview](Query%20Results%20Screenshots/01_total_records.png)
+
 # Global Superstore Sales Analysis using SQL
 
 ## Project Overview
